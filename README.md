@@ -5,7 +5,7 @@ __abstract__ This repo presents a possible solution to the problem of a repetiti
 ## Article 
 The description of the NMPC problem, the equation chosen for the POIs, as well as its results is described in the following article:
 
-``Salvatore Marcellini, Fabio Ruggiero, Vincenzo Lippiello, "Nonlinear Model Predictive Control for Repetitive Area Reconnaissance with a Multirotor Drone, submitted to the 2023 International Conference on Unmanned Aircraft System (ICUAS ’23)  June 6 – 9, 2023  Warsaw, Poland"``
+``Salvatore Marcellini, Fabio Ruggiero, Vincenzo Lippiello, "Nonlinear Model Predictive Control for Repetitive Area Reconnaissance with a Multirotor Drone", submitted to the 2023 International Conference on Unmanned Aircraft System (ICUAS ’23)  June 6 – 9, 2023  Warsaw, Poland``
 
 This work is currently under review
 
